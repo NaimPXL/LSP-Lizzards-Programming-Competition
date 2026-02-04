@@ -1,0 +1,1 @@
+D:\Programing\LSP\ Lizzards\ \ Programming\ Competition\2013\ Cat2\posters\posters\target\debug\posters.exe: D:\Programing\LSP\ Lizzards\ \ Programming\ Competition\2013\ Cat2\posters\posters\src\main.rs
