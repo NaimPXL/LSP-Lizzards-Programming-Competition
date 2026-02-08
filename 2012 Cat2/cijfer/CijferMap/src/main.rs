@@ -1,5 +1,5 @@
 use std::io::{self, Read};
-
+//test
 fn main() {
     // Leest volledige invoer
     let mut input = String::new();
