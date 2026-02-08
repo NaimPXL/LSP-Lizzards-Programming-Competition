@@ -10,7 +10,7 @@ fn main() -> std::io::Result<()> {
 
     let vec: Vec<String> = input.lines().map(|s| s.to_string()).collect();
 
-    _second_attempt_function(vec);
+    _third_attempt_function(vec);
 
     Ok(())
 }
